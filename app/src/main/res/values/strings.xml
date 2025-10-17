@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PartnerkinTestApp</string>
+
+    <string name="conferenсes_screen_canceled_label">Отменено</string>
+    <string name="conferenсes_screen_error">Ошибка</string>
+    <string name="conferenсes_screen_toolbar_title">Конференции</string>
+    <string name="conferenсe_screen_title">Конференция</string>
+    <string name="conferenсe_screen_button_title">Регистрация</string>
+    <string name="conferenсe_screen_events_title">Связанные события</string>
+    <string name="conferenсe_screen_about_event">О событии</string>
 </resources>
